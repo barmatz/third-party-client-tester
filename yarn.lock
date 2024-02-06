@@ -213,9 +213,9 @@
     "@babel/helper-validator-identifier" "^7.22.20"
     to-fast-properties "^2.0.0"
 
-"@barmatz/third-party-library@git+ssh://git@github.com:barmatz/third-party-library.git":
-  version "0.0.0"
-  resolved "git+ssh://git@github.com:barmatz/third-party-library.git#4dab5b2b050be2090ae20193db702c0902fb8f4b"
+"@barmatz/third-party-library@git+ssh://git@github.com:barmatz/third-party-library.git#0.0.2":
+  version "0.0.2"
+  resolved "git+ssh://git@github.com:barmatz/third-party-library.git#63fa7f106829bccad5cb044c14b8d8ec9a786977"
 
 "@esbuild/aix-ppc64@0.19.12":
   version "0.19.12"
@@ -865,9 +865,9 @@ doctrine@^3.0.0:
     esutils "^2.0.2"
 
 electron-to-chromium@^1.4.648:
-  version "1.4.657"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.657.tgz#8a07ee3faa552976970843a80a1c94088ea59c9a"
-  integrity sha512-On2ymeleg6QbRuDk7wNgDdXtNqlJLM2w4Agx1D/RiTmItiL+a9oq5p7HUa2ZtkAtGBe/kil2dq/7rPfkbe0r5w==
+  version "1.4.658"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.658.tgz#cfa99cb02539125ffba420f6715face7cbce1241"
+  integrity sha512-LGkxndHz7OEv6ipmL95E83SOZmK96PHk6Njw0nf5UaOLbvPxxJhejlBWl4esuU6JHMiCjysLhKRQmLTd5s2ZPw==
 
 esbuild@^0.19.3:
   version "0.19.12"
