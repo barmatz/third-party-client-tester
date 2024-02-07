@@ -213,9 +213,9 @@
     "@babel/helper-validator-identifier" "^7.22.20"
     to-fast-properties "^2.0.0"
 
-"@barmatz/third-party-library@git+ssh://git@github.com:barmatz/third-party-library.git#0.0.2":
-  version "0.0.2"
-  resolved "git+ssh://git@github.com:barmatz/third-party-library.git#63fa7f106829bccad5cb044c14b8d8ec9a786977"
+"@barmatz/third-party-library@git+ssh://git@github.com:barmatz/third-party-library.git#0.0.5":
+  version "0.0.5"
+  resolved "git+ssh://git@github.com:barmatz/third-party-library.git#8f4218a2e5f3fba27e466a90a0edcacb62ff12f4"
 
 "@esbuild/aix-ppc64@0.19.12":
   version "0.19.12"
